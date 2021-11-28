@@ -1,1 +1,3 @@
-# kitap_degerlendirme_ve_tavsiye_otomasyonu
+# Kitap Değerlendirme ve Tavsiyonu Otomasyonu
+
+## Bu Proje Erciyes Üniversitesi'nde verilen proje ödevi doğrultusunda yapılmıştır.
